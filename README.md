@@ -6,13 +6,13 @@ A high-fidelity, production-ready mobile application inspired by Disney+ Hotstar
 
 ## 📱 Screenshots
 
-| Splash | Home Loading | Home |
-|--------|--------------|------|
-| ![Splash](./screenshots/splash.jpeg) | ![Home Loading](./screenshots/homeloading.jpeg) | ![Home](./screenshots/home.jpeg) |
 
-| Search | Detail | Profile |
-|--------|--------|---------|
-| ![Search](./screenshots/search.jpeg) | ![Detail](./screenshots/details.jpeg) | ![Profile](./screenshots/profile.jpeg) |
+| Splash | Home | Search | Detail | Profile |
+|--------|-------|------|
+| ![Splash](./screenshots/splash.jpeg) | ![Home](./screenshots/homeloading.jpeg) | ![Home](./screenshots/home.jpeg) | ![Search](./screenshots/search.jpeg) | ![Detail](./screenshots/details.jpeg) |
+![Detail](./screenshots/details1.jpeg) | ![Profile](./screenshots/profile.jpeg) |
+
+
 ---
 
 ## 🚀 Features
