@@ -9,9 +9,9 @@ A high-fidelity, production-ready mobile application inspired by Disney+ Hotstar
 
 | Splash | Home | Search | Detail | Profile |
 |--------|-------|------|
-| ![Splash](./screenshots/splash.png) | ![Home](./screenshots/homeloading.png) | ![Home](./screenshots/home.png) | ![Search](./screenshots/search.png) | ![Detail](./screenshots/details.png) |
-![Detail](./screenshots/details1.png) | ![Profile](./screenshots/profile.png) |
-| Search | Detail | Profile |
+| ![Splash](./screenshots/splash.jpeg) | ![Home](./screenshots/homeloading.jpeg) | ![Home](./screenshots/home.jpeg) | ![Search](./screenshots/search.jpeg) | ![Detail](./screenshots/details.jpeg) |
+![Detail](./screenshots/details1.jpeg) | ![Profile](./screenshots/profile.jpeg) |
+
 
 ---
 
