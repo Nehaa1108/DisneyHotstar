@@ -9,21 +9,48 @@ A high-fidelity, production-ready mobile application inspired by Disney+ Hotstar
 
 | Splash | Home | Search | Detail | Profile |
 
-<p align="center">
-  <img src="./screenshots/splash.jpeg" width="180"/>
-  &nbsp;
-  <img src="./screenshots/homeloading.jpeg" width="180"/>
-  &nbsp;
-  <img src="./screenshots/home.jpeg" width="180"/>
-  &nbsp;
-  <img src="./screenshots/search.jpeg" width="180"/>
-  &nbsp;
-  <img src="./screenshots/details.jpeg" width="180"/>
-  &nbsp;
-  <img src="./screenshots/details1.jpeg" width="180"/>
-  &nbsp;
-  <img src="./screenshots/profile.jpeg" width="180"/>
-</p>
+<table>
+<tr>
+<td align="center">
+<img src="./screenshots/splash.jpeg" width="180"/><br>
+<b>Splash</b>
+</td>
+
+<td align="center">
+<img src="./screenshots/homeloading.jpeg" width="180"/><br>
+<b>Home Loading</b>
+</td>
+
+<td align="center">
+<img src="./screenshots/home.jpeg" width="180"/><br>
+<b>Home</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="./screenshots/search.jpeg" width="180"/><br>
+<b>Search</b>
+</td>
+
+<td align="center">
+<img src="./screenshots/details.jpeg" width="180"/><br>
+<b>Detail</b>
+</td>
+
+<td align="center">
+<img src="./screenshots/details1.jpeg" width="180"/><br>
+<b>Detail 2</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="./screenshots/profile.jpeg" width="180"/><br>
+<b>Profile</b>
+</td>
+</tr>
+</table>
 ---
 
 ## 🚀 Features
