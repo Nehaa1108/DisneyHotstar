@@ -53,7 +53,7 @@ export default function ProfileScreen() {
 
   return (
     <SafeAreaView className="flex-1 bg-background" edges={["top"]}>
-      {/* Header */}
+  
       <View className="flex-row items-center justify-between px-4 pt-2 pb-1">
         <Text className="text-white text-lg font-bold">My Account</Text>
         <TouchableOpacity hitSlop={8}>
